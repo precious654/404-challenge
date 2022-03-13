@@ -14,7 +14,18 @@ a{
   background-color: black;
 }
 
+.container-1{
+  width: 50%;
+  margin: 0px 10px;
+}
+
+.container-1 img{
+  max-width: 100%;
+  height:auto;
+}
+
 .container-2{
+  font-family: cursive;
   float: right;
   position: fixed;
   top: 300px;
