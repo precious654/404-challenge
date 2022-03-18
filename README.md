@@ -37,12 +37,13 @@
 ## Overview
 
 ![screenshot](404-challenge.png)
+![screenshot](404-challenge-mobile.jpeg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
+- What was your experience? it was a nice experience
+- What have you learned/improved? I learnt flexbox, and improved my knowledge in responsive designs
 - Your wisdom? :)
 
 ### Built With
